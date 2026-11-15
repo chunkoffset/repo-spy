@@ -1,0 +1,15 @@
+{
+  "name": "github-repo-monitor",
+  "version": "1.0.0",
+  "description": "Monitors GitHub repos and sends desktop + Discord notifications",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
