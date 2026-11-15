@@ -1,0 +1,10 @@
+{
+  "github_token": "",
+  "discord_webhook_url": "https://discord.com/api/webhooks/ID/TOKEN",
+  "poll_interval_seconds": 60,
+  "desktop_notifications": true,
+  "repos": [
+    "owner/name",
+    "https://github.com/owner/other-repo"
+  ]
+}
