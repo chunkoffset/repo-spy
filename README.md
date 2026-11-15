@@ -3,9 +3,6 @@
 monitors gitHub repos and sends a notification or discord webhook message when something changes.
 ## Setup Information:
 
-1. Copy `config.example.json` to `config.json` (same folder as the program) and fill it in.
-2. Install and run:
-
 | Required | Install | Run |
 |---|---|---|
 | Python 3.8+ | `pip install -r requirements.txt` | `python monitor.py` |
